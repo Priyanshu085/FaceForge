@@ -1,6 +1,3 @@
-Sure, here's a basic README.md file template for your project:
-
-```
 # FaceForge
 
 ## Overview
@@ -48,7 +45,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 This project was inspired by the work on Generative Adversarial Networks and the desire to create realistic human faces using machine learning techniques.
-
-```
-
-You can further customize this template to include more specific details about your project, such as installation instructions, usage examples, and any additional features or functionalities.
